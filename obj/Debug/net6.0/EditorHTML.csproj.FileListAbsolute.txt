@@ -1,0 +1,15 @@
+C:\DEV\EditorHTML\bin\Debug\net6.0\EditorHTML.exe
+C:\DEV\EditorHTML\bin\Debug\net6.0\EditorHTML.deps.json
+C:\DEV\EditorHTML\bin\Debug\net6.0\EditorHTML.runtimeconfig.json
+C:\DEV\EditorHTML\bin\Debug\net6.0\EditorHTML.dll
+C:\DEV\EditorHTML\bin\Debug\net6.0\EditorHTML.pdb
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.AssemblyReference.cache
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfoInputs.cache
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfo.cs
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.dll
+C:\DEV\EditorHTML\obj\Debug\net6.0\refint\EditorHTML.dll
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.pdb
+C:\DEV\EditorHTML\obj\Debug\net6.0\EditorHTML.genruntimeconfig.cache
+C:\DEV\EditorHTML\obj\Debug\net6.0\ref\EditorHTML.dll
